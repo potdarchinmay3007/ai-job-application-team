@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Virtual environment
+.venv/
+
+# Secrets (never commit)
+.env
+
+# Personal data and generated files
+private/
+output/
+
+# Editor and OS files
+.vscode/
+Thumbs.db

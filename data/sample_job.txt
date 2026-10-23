@@ -1,0 +1,25 @@
+
+AI Intern
+
+We are looking for an AI Intern interested in building AI-powered applications.
+
+Required skills:
+- Python programming
+- Basic machine learning
+- Understanding of Large Language Models
+- Git and GitHub
+
+Preferred skills:
+- Experience with LangChain or LangGraph
+- Knowledge of Retrieval-Augmented Generation (RAG)
+- Familiarity with APIs
+
+Responsibilities:
+- Assist in developing AI applications.
+- Test and debug Python code.
+- Work with LLM APIs.
+- Collaborate with the engineering team.
+
+Experience:
+- Academic projects are acceptable.
+- No professional experience required.
