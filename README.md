@@ -79,17 +79,8 @@ Install Python and UV, then run:
 uv sync
 ```
 
-### 2. Configure the API Key
 
-Create a `.env` file in the project root.
-
-```env
-GOOGLE_API_KEY=your_api_key_here
-```
-
-Keep your API key private. Never upload your `.env` file to GitHub.
-
-### 3. Run the Resume Analyzer
+### 2. Run the Resume Analyzer
 
 ```bash
 uv run python main.py
@@ -97,7 +88,7 @@ uv run python main.py
 
 The analyzer uses the sample resume and job description from the `data/` folder.
 
-### 4. Run the Job Finder
+### 3. Run the Job Finder
 
 ```bash
 uv run python -m app.job_search
